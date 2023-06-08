@@ -11,3 +11,5 @@
 
 ## Используемые библиотеки
 *pandas, numpy, matplotlib, plotly*
+
+[Проект с отображением графиком Plotly](https://nbviewer.org/github/askuzmenko/Projects/blob/8324c3195a57d6c0040dc6404d64ade754cdbadb/sale_of_games/sale_of_games.ipynb)
